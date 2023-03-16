@@ -1,2 +1,1 @@
-@Cadmeos,
-I'm still figuring out what I want to do.
+I am a CS student and a still in development Frontend Developer
