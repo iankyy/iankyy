@@ -3,9 +3,9 @@
 
 I am a Full-Stack Developer who recently enrolled in a System Analysis and Development degree.
 
-For the past 2 semesters I have been co-developing side projects with my Uni-Team, working with multiple technologies, methodologies and problems. 
+In the last year I have been co-developing side projects with my Uni-Team, working with multiple technologies, methodologies and problems. 
 
-At the very beginning of my programming studies I started by building small projects using HTML/CSS/JAVASCRIPT, and then adventured myself with Vue.js <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="15"/> where I got acquainted to coding and to its particularities. 
+I started by building small projects using HTML/CSS/JAVASCRIPT, and then adventured myself with Vue.js <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="15"/> where I got acquainted to coding and to its particularities. 
 
 Nowdays I mainly focus on studying Java and on getting used to its ecosystem and derived technologies.
 
